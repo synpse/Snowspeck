@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+#
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snowspeck", "Snowspeck\Snowspeck.csproj", "{EF5DA42A-BAC3-4D8B-AC3C-0C60B61412E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snowspeck.Tests", "Snowspeck.Tests\Snowspeck.Tests.csproj", "{18A53E6A-F65F-4A17-B9E4-B652283A0403}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF5DA42A-BAC3-4D8B-AC3C-0C60B61412E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF5DA42A-BAC3-4D8B-AC3C-0C60B61412E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF5DA42A-BAC3-4D8B-AC3C-0C60B61412E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF5DA42A-BAC3-4D8B-AC3C-0C60B61412E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18A53E6A-F65F-4A17-B9E4-B652283A0403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18A53E6A-F65F-4A17-B9E4-B652283A0403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18A53E6A-F65F-4A17-B9E4-B652283A0403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18A53E6A-F65F-4A17-B9E4-B652283A0403}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
