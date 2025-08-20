@@ -152,6 +152,15 @@ Console.WriteLine($"Sequence: {metadata.Sequence}");
 
 ---
 
+## Planned Features
+
+- **Lock-free ID generation**  
+  Explore a non-blocking alternative using atomics or semaphores for high-concurrency environments.
+
+### Have an idea or feature request? Feel free to open an issue.
+
+---
+
 ## License
 
 Licensed under the [MIT License](LICENSE).  
